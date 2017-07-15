@@ -6,11 +6,11 @@
 <div>
 <div>
 <h1>Memorable Facts</h1>
-<p>Sometimes it's hard to remember people by their faces or names or by what they did, but funny or weird things always seem to stay stuck in the memories. 
+<p>Sometimes it's hard to remember people by their faces or names or by what they did, but funny or weird things always seem to stay stuck in the memories.</p>
 <div>
-For starters, one of my only physical fears is roller skating. Yes there's heights and really fast rides and maybe clowns but they cant top the amount of fear I get when I have a pair of skates on. The story behind this one is that I had broken my arm my first time skating. I was 6 years old and never again did I ride anything that involved wheels and balance until I was 13 (I eventually trusted a bike). For some reason I'm still scared to death about it. 
+<p>For starters, one of my only physical fears is roller skating. Yes there's heights and really fast rides and maybe clowns but they cant top the amount of fear I get when I have a pair of skates on. The story behind this one is that I had broken my arm my first time skating. I was 6 years old and never again did I ride anything that involved wheels and balance until I was 13 (I eventually trusted a bike). For some reason I'm still scared to death about it.</p>
 <div>
-As a kid I was scared of the sound the VCR made when it would rewind the movie cassetes.</p>
+<p>As a kid I was scared of the sound the VCR made when it would rewind the movie cassetes.</p>
 <div>
 <div>
 <h1>Interests</h1>
@@ -28,4 +28,4 @@ As a kid I was scared of the sound the VCR made when it would rewind the movie c
 <li>My lovely Ferret babies</li>
 <li>Japanese music (I dont know the exact genre)</li>
 </ul>
-
+</html>
