@@ -1,13 +1,14 @@
 # Alondra
 <!DOCTYPE html>
 <html>
-<html style="rgb(0,255,0)">
-<h1 style="color:blue;">My Name</h1>
+<body>
+<h1>My Name</h1>
 <p>I use Talimew and Kilala mew as nicknames online. When I was about 12 I was introduced to video games and anime and so of course this was my life at the time, and I guess you could say still is. Talim is a from Soul Calibur 2, one of the fighting games that can be found in old arcades, and Kilala is from InuYasha, a demon cat that I found adorable. I have no idea where mew came from but I've kept it since then. In person though, some people never use the 'A' in Alondra. I end up hearing "Londra" and some people ended up taking that and calling me "laundry".</p>
 <div>
 <div>
 <h1>Short Biography</h1>
 <p>As a kid I was very awkward and very shy, but I didn't care so much about little things. The only difference now is that I am still awkward but I wouldn't say shy, and that I care way too much about even the smallest things.</p>
+<body>
 <ul>
 <h1>Likes and Dislikes</h1>
 <h6>Likes</h6>
@@ -23,4 +24,12 @@
 <li>Overthinking</li>
 <li>Baggy Jeans</li>
 </ul>
+</body>
+<body>
+<h3>Fun fact about me</h3>
+<p> I broke my arm when I was 6 years old and now I am terrified of skating. It was my first time skating.</p>
+<hr>
+<h4>A cool website that I like to go to</h4>
+<a href="http://www.staggeringbeauty.com/">When you just need to wake back up</a>
+</body>
 </html>
