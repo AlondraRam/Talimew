@@ -30,6 +30,6 @@
 <p> I broke my arm when I was 6 years old and now I am terrified of skating. It was my first time skating.</p>
 <hr>
 <h4>A cool website that I like to go to</h4>
-<a href="http://www.staggeringbeauty.com/">When you just need to wake back up</a>
+<a href="http://www.staggeringbeauty.com/">Shake it like a polaroid picture</a>
 </body>
 </html>
