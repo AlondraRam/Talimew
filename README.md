@@ -34,6 +34,6 @@
 <div>
 <body>
 <h2>An Image</h2>
-<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
 </body>
 </html>
