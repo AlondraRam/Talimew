@@ -28,8 +28,7 @@
 <body>
 <h3>Fun fact about me</h3>
 <p> I broke my arm when I was 6 years old and now I am terrified of skating. It was my first time skating.</p>
-<hr>
-<h4>A cool website that I like to go to</h4>
+<h5>A cool website that I like to go to</h5>
 <a href="http://www.staggeringbeauty.com/">Shake it like a polaroid picture</a>
 </body>
 <div>
