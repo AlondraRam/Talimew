@@ -35,6 +35,6 @@
 <div>
 <body>
 <h2>An Image</h2>
-<img src="w3schools.jpg" alt="W3Schools.com" width:104 height:142>
+<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
 </body>
 </html>
