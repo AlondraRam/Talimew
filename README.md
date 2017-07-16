@@ -32,4 +32,9 @@
 <h4>A cool website that I like to go to</h4>
 <a href="http://www.staggeringbeauty.com/">Shake it like a polaroid picture</a>
 </body>
+<div>
+<body>
+<h2>An Image</h2>
+<img src="w3schools.jpg" alt="W3Schools.com" width:104 height:142>
+</body>
 </html>
