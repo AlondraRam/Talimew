@@ -1,15 +1,18 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
-    background-color: linen;
+    background-color: LightGoldenRodYellow;
 }
 h1 {
-    color: maroon;
-    margin-left: 40px;
+    color: LightSeaGreen;
+    margin-left: 20px;
 }
+p { 
+   color: MediumSpringGreen;
+   margin-left: 40px;
+}   
 </style>
 </head>
 <body>
