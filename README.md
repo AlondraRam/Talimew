@@ -8,7 +8,7 @@
 <div>
 <h1>Short Biography</h1>
 <p>As a kid I was very awkward and very shy, but I didn't care so much about little things. The only difference now is that I am still awkward but I wouldn't say shy, and that I care way too much about even the smallest things.</p>
-<body>
+
 <ul>
 <h1>Likes and Dislikes</h1>
 <h6>Likes</h6>
@@ -24,15 +24,15 @@
 <li>Overthinking</li>
 <li>Baggy Jeans</li>
 </ul>
-</body>
-<body>
+
+
 <h3>Fun fact about me</h3>
 <p> I broke my arm when I was 6 years old and now I am terrified of skating. It was my first time skating.</p>
 <h5>A cool website that I like to go to</h5>
 <a href="http://www.staggeringbeauty.com/">Shake it like a polaroid picture</a>
-</body>
+
 <div>
-<body>
+
 <h2>An Image</h2>
 <img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
 </body>
