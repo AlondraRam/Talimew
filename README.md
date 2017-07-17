@@ -1,8 +1,19 @@
 # Alondra
 <!DOCTYPE html>
 <html>
-<html style="rgb(0,255,0)">
-<h1 style="color:blue;">My Name</h1>
+<head>
+<style>
+body {
+    background-color: cyan;
+}
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+</style>
+</head>
+<body>
+<h1>My Name</h1>
 <p>I use Talimew and Kilala mew as nicknames online. When I was about 12 I was introduced to video games and anime and so of course this was my life at the time, and I guess you could say still is. Talim is a from Soul Calibur 2, one of the fighting games that can be found in old arcades, and Kilala is from InuYasha, a demon cat that I found adorable. I have no idea where mew came from but I've kept it since then. In person though, some people never use the 'A' in Alondra. I end up hearing "Londra" and some people ended up taking that and calling me "laundry".</p>
 <div>
 <div>
@@ -29,4 +40,5 @@
 <li>My lovely Ferret babies</li>
 <li>Japanese music (I dont know the exact genre)</li>
 </ul>
+</body>
 </html>
