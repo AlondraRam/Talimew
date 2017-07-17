@@ -13,6 +13,7 @@ p {
    color: Black;
    margin-left: 40px;
    text-indent: 20px;
+   font-family: "Times New Roman", Times, serif;
 }   
 </style>
 </head>
@@ -45,6 +46,7 @@ p {
 <p> I broke my arm when I was 6 years old and now I am terrified of skating. It was my first time skating.</p>
 <h5>A cool website that I like to go to</h5>
 <a href="http://www.staggeringbeauty.com/">Shake it like a polaroid picture</a>
+<a href="https://www.youtube.com/">The youtubes</a>
 
 <div>
 
