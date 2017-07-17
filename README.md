@@ -53,7 +53,7 @@ p {
 
 <div>
 
-<h2>Overwatch Character: Symmetra</h2>
-<img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
+<h2>Scratch Game: Monkey Business</h2>
+<img src="monkeybusinessscreenshot.PNG" alt="MonkeyBusiness" style="width:304px;height:228px;">
 </body>
 </html>
