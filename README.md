@@ -15,7 +15,7 @@ p {
    text-indent: 20px;
    font-family: "Times New Roman", Times, serif;
    font-size: 15px;
-   line-height: 1.3;
+   line-height: 1.8;
 }   
 </style>
 </head>
