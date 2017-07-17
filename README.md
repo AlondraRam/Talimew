@@ -10,7 +10,7 @@ h1 {
     margin-left: 20px;
 }
 p { 
-   color: MediumSpringGreen;
+   color: Black;
    margin-left: 40px;
 }   
 </style>
@@ -47,7 +47,7 @@ p {
 
 <div>
 
-<h2>An Image</h2>
+<h2>Overwatch Character: Symmetra</h2>
 <img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
 </body>
 </html>
