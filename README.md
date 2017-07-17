@@ -14,7 +14,7 @@ p {
    margin-left: 40px;
    text-indent: 20px;
    font-family: "Times New Roman", Times, serif;
-   font-size: 30px;
+   font-size: 15px;
 }   
 </style>
 </head>
