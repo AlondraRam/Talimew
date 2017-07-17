@@ -12,7 +12,6 @@ h1 {
 p { 
    color: Black;
    margin-left: 40px;
-   text-indent: 50px;
 }   
 </style>
 </head>
