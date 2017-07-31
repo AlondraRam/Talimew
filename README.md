@@ -54,7 +54,7 @@ p {
 <img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
 
 <script>
-window.alert("Helllloooo");
+window.alert("Hey girl how you? This my webpage thank you for visiting ");
 </script>
 
 </body>
