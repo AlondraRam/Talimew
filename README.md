@@ -23,9 +23,9 @@ p {
 
 <img id="myImage" src="widownepal.jpg" style="width:200px">
 <img id="Cool" src="sombraaa.png" style="width:200px">
-<img id="zen" src=  style="width:200px>
-<img id="phara" src=  style="width:200>
-<img id="widow" src= style="width:200>
+<img id="zen" src="zenya.png"  style="width:200px>
+<img id="phara" src="datpharah.png"  style="width:200>
+<img id="widow" src="anotherwidow.png" style="width:200>
 <h1>My Name</h1>
 <p>I use Talimew and Kilala mew as nicknames online. When I was about 12 I was introduced to video games and anime and so of course this was my life at the time, and I guess you could say still is. Talim is a from Soul Calibur 2, one of the fighting games that can be found in old arcades, and Kilala is from InuYasha, a demon cat that I found adorable. I have no idea where mew came from but I've kept it since then. In person though, some people never use the 'A' in Alondra. I end up hearing "Londra" and some people ended up taking that and calling me "laundry".</p>
 <div>
