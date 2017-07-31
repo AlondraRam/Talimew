@@ -20,8 +20,8 @@ p {
 </style>
 </head>
 <body>
-<button onclick="myimage.src='sombraaa.png'">Some cool shots</button>
-<button onclick="mysecondimage.src='widownepal.png'">another cool shot</button>
+<button onclick="document.getElementbyId('myImage').src='widownepal.png'">Some cool shots</button>
+<img id="myImage" src="widownepal.png" style="width:100px">
 <h1>My Name</h1>
 <p>I use Talimew and Kilala mew as nicknames online. When I was about 12 I was introduced to video games and anime and so of course this was my life at the time, and I guess you could say still is. Talim is a from Soul Calibur 2, one of the fighting games that can be found in old arcades, and Kilala is from InuYasha, a demon cat that I found adorable. I have no idea where mew came from but I've kept it since then. In person though, some people never use the 'A' in Alondra. I end up hearing "Londra" and some people ended up taking that and calling me "laundry".</p>
 <div>
