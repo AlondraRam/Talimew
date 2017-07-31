@@ -27,15 +27,7 @@ p {
 <img id="phara" src="datpharah.png"  style="width:200px">
 <img id="widow" src="anotherwidow.png" style="width:200px">
 <img ="setTimeout(myFunction,2000);></img>
-<script>
-function myFunction() {
-<img id="myImage" src="widownepal.jpg" style="width:200px">
-<img id="Cool" src="sombraaa.png" style="width:200px">
-<img id="zen" src="zenya.png"  style="width:200px">
-<img id="phara" src="datpharah.png"  style="width:200px">
-<img id="widow" src="anotherwidow.png" style="width:200px">
-}
-</script>
+
     
     
 <h1>My Name</h1>
