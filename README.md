@@ -55,7 +55,8 @@ p {
 
 <script>
 window alert ("Helllloooo, thanks for taking the time to see my website. I know that it might be a lot to ask of you but ... 
-could you please go back and refresh this so that way the next person can read this? Or maybe Im wrong, maybe you just dont care enough to do that. Or maybe its not just you reading this.. I dont know... but youll know what youll do next")
+could you please go back and refresh this so that way the next person can read this? Or maybe Im wrong, maybe you just dont care enough to do that. Or maybe its not just you reading this.. I dont know... but youll know what youll do next");
 </script>
+
 </body>
 </html>
