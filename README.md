@@ -64,7 +64,7 @@ p {
 <img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
 
 <script>
-window.alert("Hey girl how you? This my webpage thank you for visiting ");
+window.alert("Hey girl how you? This my webpage thank you for visiting, pls refresh this when youre done looking at me work  ");
 </script>
 
 </body>
