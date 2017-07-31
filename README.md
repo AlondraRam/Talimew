@@ -51,6 +51,6 @@ p {
 <div>
 
 <h2>Scratch Game: Monkey Business</h2>
-<img src="monkeybusinessscreenshot.PNG" alt="MonkeyBusiness" style="width:304px;height:228px;">
+<img src="monkeybusinessscreenshot.PNG" alt="Symmetra" style="width:304px;height:228px;">
 </body>
 </html>
