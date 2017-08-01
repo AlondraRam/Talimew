@@ -61,7 +61,7 @@ p {
 <div>
 
 <h2>Overwatch Character: Symmetra </h2>
-<img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px;height:228px;">
+<img src="Aesthetic Symmetra.png" alt="Symmetra" style="width:304px">
 
 <script>
 window.alert("Hey girl how you? This my webpage thank you for visiting, pls refresh this when youre done looking at me work  ");
